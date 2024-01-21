@@ -1,0 +1,38 @@
+﻿@using ExamBusiness.Areas.Manage.ViewModels;
+@model UpdateBlogVM
+<div class="col-sm-12 col-xl-6">
+
+    <div class="bg-secondary rounded h-100 p-4">
+        <h6 class="mb-4">Floating Label</h6>
+        <form method="post" class="d-none d-md-flex ms-4" enctype="multipart/form-data">
+            <div class="form-floating mb-3">
+                <input asp-for="Title" type="text" class="form-control">
+                <label asp-for="Title">Title</label>
+                <span asp-validation-for="Title" style="color:red"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+
+                <input asp-for="Image" class="form-control">
+                <label asp-for="Image">Image</label>
+                <span asp-validation-for="Image" style="color:red"></span>
+            </div>
+
+
+
+
+            <div class="form-floating">
+                <textarea asp-for="Description" class="form-control"
+                          style="height: 150px;">Description</textarea>
+                <label asp-for="Description">Description</label>
+                <span asp-validation-for="Description" style="color:red"></span>
+
+            </div>
+            <div class="form-floating mb-3">
+
+                <button type="submit" class="btn btn-success m-2" style="margin-top:100px">Create</button>
+            </div>
+        </form>
+
+    </div>
+</div>

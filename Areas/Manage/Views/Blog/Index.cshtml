@@ -1,0 +1,44 @@
+﻿@using ExamBusiness.Areas.Manage.ViewModels;
+@model ReadBlogsManageVM
+<div class="col-12">
+    <div class="bg-secondary rounded h-100 p-4">
+        <h6 class="mb-4">Responsive Table</h6>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Image</th>
+                        <th scope="col">Crated time</th>
+                        <th scope="col">Actions</th>
+                        <th scope="col"><a asp-action="Create" asp-controller="blog" class="btn btn-success m-2">Create</a></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.blogs)
+                    {
+                        <tr>
+                            <th scope="row">@item.Id</th>
+                            <td>@item.Title</td>
+                            <td>@item.Description</td>
+                            <td><img src="~/Upload/@item.ImageUrl" style="width:50px; height:50px"></img></td>
+                            <td>@item.CreatedAt</td>
+                            <td>
+                                <a asp-action="Update" asp-controller="blog" asp-route-id="@item.Id" class="btn btn-warning m-2">Update</a>
+                                <a asp-action="Delete" asp-controller="blog" asp-route-id="@item.Id" class="btn btn-danger m-2">Delete</a>
+                            </td>
+
+                        </tr>
+                    }
+
+                   
+                </tbody>
+                <div class="alert alert-primary" role="alert">
+                    @TempData["error"]
+                </div>
+            </table>
+        </div>
+    </div>
+</div>

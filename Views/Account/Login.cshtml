@@ -1,0 +1,28 @@
+﻿@using ExamBusiness.ViewModels;
+
+@model LoginVM
+
+<div class="col-sm-12 col-xl-6" style="margin-top:100px">
+    <div class="bg-secondary rounded h-100 p-4">
+        <h6 class="mb-4">Register</h6>
+        <form method="post">
+          
+           
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label">Email</label>
+                <input asp-for="Email" type="email" class="form-control">
+                <span asp-validation-for="Email" style="color:red"></span>
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label">Password</label>
+                    <input asp-for="Password" type="password" class="form-control">
+                    <span asp-validation-for="Password" style="color:red"></span>
+
+                </div>
+                <div class="mb-3" asp-validation-summary="All">
+                </div>
+
+            </div>
+            <button type="submit" class="btn btn-primary">Login</button>
+        </form>
+    </div>
+</div>

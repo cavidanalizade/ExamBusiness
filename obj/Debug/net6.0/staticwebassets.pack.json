@@ -1,0 +1,641 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ExamBusiness.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ExamBusiness.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Manage\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\css\\style.css",
+      "PackagePath": "staticwebassets\\Manage\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Manage\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Manage\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Manage\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\js\\main.js",
+      "PackagePath": "staticwebassets\\Manage\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Manage\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Manage\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Manage\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Manage\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Manage\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Manage\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Manage\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Manage\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Manage\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Manage\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Manage\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Manage\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Manage\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Manage\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Upload\\4155370a-19e3-475e-a59e-256fac016df5product-details-4.jpg",
+      "PackagePath": "staticwebassets\\Upload\\4155370a-19e3-475e-a59e-256fac016df5product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Upload\\4b510741-c66a-4ffe-b358-bc728a13db2dfc76126c-3f44-4843-b3e4-e06970e8f9291-270x300.webp",
+      "PackagePath": "staticwebassets\\Upload\\4b510741-c66a-4ffe-b358-bc728a13db2dfc76126c-3f44-4843-b3e4-e06970e8f9291-270x300.webp"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Upload\\5fff269b-b899-49da-9cc9-ca24e895ebcaproduct-details-5.jpg",
+      "PackagePath": "staticwebassets\\Upload\\5fff269b-b899-49da-9cc9-ca24e895ebcaproduct-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Upload\\a3d52ee1-8ecb-473e-a0f4-99c601a862b5Maxim.zip",
+      "PackagePath": "staticwebassets\\Upload\\a3d52ee1-8ecb-473e-a0f4-99c601a862b5Maxim.zip"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Upload\\b52a9945-39d8-489e-bc21-c223e71ebf8aproduct-8.jpg",
+      "PackagePath": "staticwebassets\\Upload\\b52a9945-39d8-489e-bc21-c223e71ebf8aproduct-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Upload\\c69ecc49-8241-4ae3-995a-5c448bfd44f6product-12.jpg",
+      "PackagePath": "staticwebassets\\Upload\\c69ecc49-8241-4ae3-995a-5c448bfd44f6product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Upload\\c930869b-77db-44a2-9f59-d79ee2205aeaproduct-details-5.jpg",
+      "PackagePath": "staticwebassets\\Upload\\c930869b-77db-44a2-9f59-d79ee2205aeaproduct-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Upload\\d812d55b-67cf-4be5-986c-33bcc92a009aproduct-details-5.jpg",
+      "PackagePath": "staticwebassets\\Upload\\d812d55b-67cf-4be5-986c-33bcc92a009aproduct-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Upload\\e4d97bae-89e9-4edb-b678-547949432803product-details-5.jpg",
+      "PackagePath": "staticwebassets\\Upload\\e4d97bae-89e9-4edb-b678-547949432803product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\Upload\\feb0fa93-7dd3-4fdb-b588-cc9b3a99e28e6e34e119-a603-4e80-aae2-1ddd120bffe71-2-524x617.png",
+      "PackagePath": "staticwebassets\\Upload\\feb0fa93-7dd3-4fdb-b588-cc9b3a99e28e6e34e119-a603-4e80-aae2-1ddd120bffe71-2-524x617.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\css\\lineicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lineicons.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\about\\about-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\ayroui.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\ayroui.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\blog\\b6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\call-action\\overlay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\call-action\\overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\client-logo\\ayroui.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\ayroui.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\client-logo\\ecomhtml.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\ecomhtml.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\client-logo\\graygrids.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\graygrids.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\client-logo\\lineicons.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\lineicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\client-logo\\tailwindtemplates.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\tailwindtemplates.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\client-logo\\uideck.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\uideck.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\header\\hero-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\hero-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\images\\white-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\white-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\style.css",
+      "PackagePath": "staticwebassets\\assets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\source\\repos\\ExamBusiness\\wwwroot\\assets\\video\\video.mp4",
+      "PackagePath": "staticwebassets\\assets\\video\\video.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ExamBusiness.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ExamBusiness.props",
+      "PackagePath": "build\\ExamBusiness.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ExamBusiness.props",
+      "PackagePath": "buildMultiTargeting\\ExamBusiness.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ExamBusiness.props",
+      "PackagePath": "buildTransitive\\ExamBusiness.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
